@@ -125,21 +125,22 @@ For the Cadmium data the average air quality is not steady and fluctuates, but t
 
 ### How has the air quality changed overall over the course of the past 30 years?
 
+![Fig](Images/Chromium_sample_value_reported_year.png)
+
 
 ### What were the mean values for the air quality in specific cities?
 
-Air quality with levels of health concern
+![Fig](Images/Chromium_Sample_Final_Mean_by_City.png
 
-Air Quality for Sensitive Groups
-
-Unhealthy Air Quality
-
-Very unhealthy Air Quality
-
-Hazardous Air Quality
+* Air quality with levels of health concern
+* Air Quality for Sensitive Groups
+* Unhealthy Air Quality
+* Very unhealthy Air Quality
+* Hazardous Air Quality
 
 ### How do the cities compare over time?
 
+![Fig](Images/Chromium_max_values_per_city.png)
 
 ## Toluene
 ### Risk Type:
@@ -154,7 +155,8 @@ The central nervous system (CNS) is the primary target organ for toluene toxicit
 ### How has the air quality changed overall over the course of the past 30 years
 According to the Data Set, NJ’s Toluene air sampling values are trending downward and have overall reduced.
 
-Fig 1: Toluene: The Yearly Average of all Testing Sites Combined
+![Fig](Images/Toluene_yearly_mean_across_all_data_sets.png)
+Toluene: The Yearly Average of all Testing Sites Combined
 
 
 ### Which cities suffered more from high levels of this pollutant overall?
@@ -162,18 +164,20 @@ Fig 1: Toluene: The Yearly Average of all Testing Sites Combined
 * When looking at the values please keep in mind: There were 18 Testing Sites for Toluene Sampling.  After CityPy these 18 sites were reduced to 13 sites: Data was combined from two sites in Elizabeth and three sites in Paterson. (Fig 3)  None of these averages reached hazardous levels.
 
 Figure 2: Toluene Average Values over all timesets per city
-
+![Fig](Images/Toluene_mean_by_city_bar.png)
 
 Figure 3: Toluene Average Values over all timesets per Latitude
+![Fig](Images/Toluene_mean_by_latitude_bar.png)
 
 ### A closer look:  Showing City Averages...
 * There is a lack of data per city before 1995. Overall datasets per city are incomplete. The highest averages are registered before 1995.  Most pre-1995 testing sites ending tests completely. 
 * Camden registered the highest average in 1991, with a downward trend until 2008. After a few years of no data 2013 sampling jumps with higher averages still up 2016.
 
 Figure 4: Tracking Toluene Samples per City over the years
-
+![Fig](Images/toluene_mean_values_per_city.png)
 
 Figure 5: Toluene Sampling Averages for Cities with over 10 Years of Data
+![Fig](Images/Toluene_mean_city_highlights.png)
 
 ### … & Max Values over time: A look into the max values illustrates another story. 
 * Here we see values over hazardous levels in Camden, Ewing, Harrison, Highland Park, New Brunswick, and Paterson. 
@@ -181,10 +185,9 @@ Figure 5: Toluene Sampling Averages for Cities with over 10 Years of Data
 * * Did Rutgers facilities decide to paint their buildings in 2005 without notifying the Air Sampling Administrators (therefore skewing their entire data set) or was there some kind of chemical spill?
 
 Figure 6: Max Value per Year over Time
-
+![Fig](Images/toluene_max_values_per_city.png)
 
 Figure 7: Toluene Max Values, City Highlights
-
-
+![Fig](Images/Toluene_max_city_highlights.png)
 
 
