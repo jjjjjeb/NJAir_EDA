@@ -56,7 +56,7 @@ We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it ha
 * Additional reflections
 * Chromium and Cadmium reflections
 
-![Our four toxins: Averages per Year](Images/all_mean_values+per_year.png)
+![Fig1](Images/all_mean_values_per_year.png)
 
 # Toxic Pollutant Highlights
 
