@@ -95,15 +95,10 @@ EPA calculated an inhalation unit risk estimate of 1.8 × 10 -3 (µg/m 3 ) -1 . 
 
 ### How has the average air quality in terms of toxins changed in the last 20 to 30 years overall in New Jersey?
 
-According to the graph: “Chromium (microg/c3) by Year in NJ”, the air quality in terms of the presence of chromium toxin has been constant since 1991 mostly throughout the State of New Jersey (in cities where it has been measured). However, in 2007 and 2008, the levels of this toxin reached levels of concern for health in the cities of Little Ferry and especially Secaucus (based on the Air Quality Index (AQI) - Particulate matter).
-
 ![Fig](Images/cadmium_yearly_city_mean.png)
 
 ### How had the air quality changed in cities with more than 10 years of observational data?
-Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being). This may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
 
-### How do the cities compare over time?
-In terms of specific cities, most were below 1 microgram per cubic meter, with the exception of Little Ferry and Secaucus. These cities showed the highest average values ​​reported, with levels above 35.5 during the years of 2007 and 2008, which according to the AQI - Particulate matter, are levels that would affect the population with serious health effects.
 
 ## Additional Observations for Cadmium
 ### What Years have more Risk of getting cancer?
@@ -120,25 +115,31 @@ By grouping the data by year and city, we can calculate the mean values, and ext
 ### How has the air quality improved in areas that have had observations of 10 years or more?
 For the Cadmium data the average air quality is not steady and fluctuates, but the last 3 years evaluated (204 to 2016) shows an increase of this toxins for the Cities of Camden, Highland Park, Elizabeth and Hopatcong, and and increase of last year evaluated (2016) for Newark and New Brunswick.
 
-
-## Chromium 
-
-### How has the air quality changed overall over the course of the past 30 years?
-
-![Fig](Images/Chromium_sample_value_reported_year.png)
-
-
-### What were the mean values for the air quality in specific cities?
-
-![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
-
 * Air quality with levels of health concern
 * Air Quality for Sensitive Groups
 * Unhealthy Air Quality
 * Very unhealthy Air Quality
 * Hazardous Air Quality
 
+
+## Chromium 
+
+### How has the air quality changed overall over the course of the past 30 years?
+According to the graph: “Chromium (microg/c3) by Year in NJ”, the air quality in terms of the presence of chromium toxin has been constant since 1991 mostly throughout the State of New Jersey (in cities where it has been measured). However, in 2007 and 2008, the levels of this toxin reached levels of concern for health in the cities of Little Ferry and especially Secaucus (based on the Air Quality Index (AQI) - Particulate matter).
+
+![Fig](Images/Chromium_sample_value_reported_year.png)
+
+
+
+### What were the mean values for the air quality in specific cities?
+* In terms of specific cities, most were below 1 microgram per cubic meter, with the exception of Little Ferry and Secaucus. These cities showed the highest average values ​​reported, with levels above 35.5 during the years of 2007 and 2008, which according to the AQI - Particulate matter, are levels that would affect the population with serious health effects.
+
+![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
+
+
 ### How do the cities compare over time?
+* Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being
+* This may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
 
 ![Fig](Images/Chromium_max_values_per_city.png)
 
