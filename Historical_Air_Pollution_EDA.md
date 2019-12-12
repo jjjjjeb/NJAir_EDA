@@ -128,7 +128,7 @@ According to the graph: “Chromium (microg/c3) by Year in NJ”, the air qualit
 
 #### PM2.5 AQI breakpoints
 
-![Fig](Images/Chromium_AQI_PM25.png)
+![Fig](Images/Chromium_AQI_PM25.PNG)
 
 To know if the values registered are dangerous or not, we need to compare them with an index and in this case with the Air Quality Index, the Fine Particulate Matter that measures the level of air pollutants in the air.
 
