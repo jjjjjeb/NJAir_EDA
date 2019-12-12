@@ -52,11 +52,13 @@ We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it ha
 
 # Analysis of all Data Sets
 ## Benzene, Cadmium, Chromium, Toluene
+* We decided to use the sampling measurement 'mg/m3' because this measurement is an international standard. 
+* The dataset included coordinates for testing locations.  We used the citypy module to get the nearest city to the testing location.
 * The benzene and toluene data sample results show the most similarities with high values before 1995 and high averages across all the years in Harrison and North Plainfield.  Because Toluene is used to produce Benzene and because both are used in the production of paint, perhaps there were a higher number of paint-producing factories in these locations.  
 * Additional reflections
 * Chromium and Cadmium reflections
 
-![Fig1](Images/all_mean_values_per_year.png)
+![Fig](Images/all_mean_values_per_year.png)
 
 # Toxic Pollutant Highlights
 
@@ -65,16 +67,23 @@ We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it ha
 ### How has the air quality changed overall over the course of the past 30 years?
 The air quality in terms of Benzene specifically, was on the decline over the last 30 years for the most part. However, in the years 2015 and 2016, the amount of Benzene appeared to be on the rise in the areas that were observed, with the addition of Bayonne and Newark being observed in those years and not the years prior.
 
-![Laboratory](Images/Laboratory.jpg)
+![Fig](Images/benzene_yearly_mean.png)
 
 ### What were the mean values for the air quality in specific cities?
 In terms of specific cities, most were below 1 microgram per cubic meter, with the exceptions of Camden, Darby, Elizabeth, North Plainfield, and Harrison. North Plainfield and Harrison had the highest recorded mean values, having around 4 micrograms per cubic meters, and 3 micrograms per cubic meter respectively. Although the had the highest mean values, they had less than ten years of observational data, each having about 7 years, whereas others had more than 10 and some with more than 20 years of observational data.
 
+![Fig](Images/benzene_mean_city.png)
+
 ### How had the air quality changed in cities with more than 10 years of observational data?
 Of the cities that had more than 10 years of observational data, they pretty much all had a decline in how much Benzene was in the air over the years, albeit a year here or there that had a small spike. One of the cities that had the most significant improvements in terms of air quality was Camden, that had mean values of over 4 micrograms per cubic meters in 1990, to under 1 microgram per cubic meter in 2016. Elizabeth on the other hand, while improving in air quality over time, actually had an increase in Benzene in 2016, growing to about 1.5 micrograms per cubic meter, as opposed to being under 1 microgram per cubic meter the year prior.
 
+![Fig](Images/benzene_air_quality_change_city.png)
+
+
 ### How do the cities compare over time?
 In conclusion, over time pretty much all the cities have made efforts to reduce the amount of Benzene in the air, whether it be due tighter regulations from the government, or from less people smoking cigarettes and the like, with small exception of course. If things continue to go down this route, I’m sure most if not all the cities will be under 1 microgram per cubic meter, which while I can’t say with certainty is considered “safe” levels, is certainly much safer than the levels that were shown in the previous years.
+
+![Fig](Images/benzene_mean_values_per_city.png)
 
 
 ## Cadmium:
