@@ -166,12 +166,12 @@ The heat map shows exposure to dangerous levels in one place and is Secaucus (ar
 ## Toluene
 ### Risk Type:
 Source: [EPA Toluene Overview; Includes National Institute of Occupational Safety & Health, Occupational Safety and Health Administration Citations on Risk Levels](https://www.epa.gov/sites/production/files/2016-09/documents/toluene.pdf)
-* The central nervous system (CNS) is the primary target organ for toluene toxicity in both humans. CNS dysfunction and narcosis have been frequently observed in humans exposed to elevated airborne levels of toluene; symptoms include fatigue, sleepiness, headaches, and nausea with serious exposure causing swollen liver, congestion & hemorrhage of the lungs, and tubular kidney necrosis. Toluene has not been proven to be carcinogenic. (Source: epa.gov)
-### Risk Level: 
+* The central nervous system (CNS) is the primary target organ for toluene toxicity in humans. CNS dysfunction and narcosis have been frequently observed in humans exposed to elevated airborne levels of toluene; symptoms include fatigue, sleepiness, headaches, and nausea with serious exposure causing swollen liver, congestion & hemorrhage of the lungs, and tubular kidney necrosis. Toluene has not been proven to be carcinogenic. (Source: epa.gov)
+### Risk Levels: 
 * Causing Death in 50% of Tested Subjects: 33,176 mg/m3 (rats) / 20,056 mg/m3 (mice)
 * Immediately Dangerous to Life : 18,885 mg/m 
+* Long Term Exposure Limit (8-10 Hours):  NIOSH: 375 mg/m3 / OSHA: 754 mg/m3
 * Short Term Exposure Limit (15 Minute): 560 mg/m3
-* Long Term Exposure Limit (8-10 Hours):  NIOSH: 375 mg/m3 / OSHA: 754 mg/m3 (?)
 
 ### How has the air quality changed overall over the course of the past 30 years
 According to the Data Set, NJ’s Toluene air sampling values are trending downward and have overall reduced.
