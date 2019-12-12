@@ -56,9 +56,9 @@ We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it ha
 ## Benzene, Cadmium, Chromium, Toluene
 * We decided to use the sampling measurement 'mg/m3' because this measurement is an international standard. 
 * The dataset included coordinates for testing locations.  We used the citypy module to get the nearest city to the testing location.
+* In some instances we used the gmaps module to illustrate the mapping of sampling locations where a specific toxin recorded levels registered as high risk to human health.
 * The benzene and toluene data sample results show the most similarities with high values before 1995 and high averages across all the years in Harrison and North Plainfield.  Because Toluene is used to produce Benzene and because both are used in the production of paint, perhaps there were a higher number of paint-producing factories in these locations.  
 * Additional reflections
-* Chromium and Cadmium reflections
 
 ![Fig](Images/all_mean_values_per_year.png)
 
