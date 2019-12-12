@@ -117,38 +117,51 @@ By grouping the data by year and city, we can calculate the mean values, and ext
 ### How has the air quality changed overall over the course of the past 30 years?
 According to the graph: “Chromium (microg/c3) by Year in NJ”, the air quality in terms of the presence of chromium toxin has been constant since 1991 mostly throughout the State of New Jersey (in cities where it has been measured). However, in 2007 and 2008, the levels of this toxin reached levels of concern for health in the cities of Little Ferry and especially Secaucus (based on the Air Quality Index (AQI) - Particulate matter).
 
+
 ![Fig](Images/Chromium_sample_value_reported_year.png)
+
 
 ### What were the mean values for the air quality in specific cities?
 * In terms of specific cities, most were below 1 microgram per cubic meter, with the exception of Little Ferry and Secaucus. These cities showed the highest average values ​​reported, with levels above 35.5 during the years of 2007 and 2008, which according to the AQI - Particulate matter, are levels that would affect the population with serious health effects.
 
+
 ![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
+
 
 ### Are the levels of Chromium in the air dangerous for the human's health?
 
 #### PM2.5 AQI breakpoints
 
+
 ![Fig](Images/Chromium_AQI_PM25.PNG)
+
 
 To know if the values registered are dangerous or not, we need to compare them with an index and in this case with the Air Quality Index, the Fine Particulate Matter that measures the level of air pollutants in the air.
 
 * After the registered levels of chromium were filtered, the results were:
 
+
 ![Fig](Images/Chromium_BreakPoint_Sensitive-VeryUnhealthy.png)
+
 
 People who were in those cities (Little Ferry and Secaucus) were exposed to the toxin and may have experienced serious health effects because the toxin levels found in the area were in the categories that could be: Unhealthy for sensitive groups, unhealthy and very unhealthy.
 
+
 ![Fig](Images/Chromium_BreakPoint_Hazardous.png)
+
 
 The heat map shows exposure to dangerous levels in one place and is Secaucus (around wetlands). The value shown is high; that is, within the index we talk about levels of up to 500 and the value is shown reaches 800. This could be given for two reasons:
 
 1. The person who registered the data in the database made a human error and typed the wrong value.
 2. An important event occurred on the day of sampling.
 
+
 ### How do the cities compare over time?
 * Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being), this may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
 
+
 ![Fig](Images/Chromium_max_values_per_city.png)
+
 
 ## Toluene
 ### Risk Type:
