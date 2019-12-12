@@ -144,9 +144,9 @@ For the Cadmium data the average air quality is not steady and fluctuates, but t
 
 ## Toluene
 ### Risk Type:
-The central nervous system (CNS) is the primary target organ for toluene toxicity in both humans. CNS dysfunction and narcosis have been frequently observed in humans exposed to elevated airborne levels of toluene; symptoms include fatigue, sleepiness, headaches, and nausea with serious exposure causing swollen liver, congestion & hemorrhage of the lungs, and tubular kidney necrosis. Toluene has not been proven to be carcinogenic. (Source: epa.gov)
-### Risk Level:
-* (National Institute of Occupational Safety & Health, Occupational Safety and Health Administration)
+Source: [EPA Toluene Overview; Includes National Institute of Occupational Safety & Health, Occupational Safety and Health Administration Citations on Risk Levels](https://www.epa.gov/sites/production/files/2016-09/documents/toluene.pdf)
+* The central nervous system (CNS) is the primary target organ for toluene toxicity in both humans. CNS dysfunction and narcosis have been frequently observed in humans exposed to elevated airborne levels of toluene; symptoms include fatigue, sleepiness, headaches, and nausea with serious exposure causing swollen liver, congestion & hemorrhage of the lungs, and tubular kidney necrosis. Toluene has not been proven to be carcinogenic. (Source: epa.gov)
+### Risk Level: 
 * Causing Death in 50% of Tested Subjects: 33,176 mg/m3 (rats) / 20,056 mg/m3 (mice)
 * Immediately Dangerous to Life : 18,885 mg/m 
 * Short Term Exposure Limit (15 Minute): 560 mg/m3
