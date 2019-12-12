@@ -58,7 +58,9 @@ We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it ha
 * The dataset included coordinates for testing locations.  We used the citypy module to get the nearest city to the testing location.
 * In some instances we used the gmaps module to illustrate the mapping of sampling locations where a specific toxin recorded levels registered as high risk to human health.
 * The benzene and toluene data sample results show the most similarities with high values before 1995 and high averages across all the years in Harrison and North Plainfield.  Because Toluene is used to produce Benzene and because both are used in the production of paint, perhaps there were a higher number of paint-producing factories in these locations.  
-* Additional reflections
+* There’s been a significant decrease for Toluene since 1995 but for the last 3 years evaluated the values have been increasing. Even though Benzene and Cadmium had low values throughout the years the last 3 years have been increasing. This represents higher risk of health issues for the population of New Jersey by inhaling these toxins.
+* Chromium values majorly remained the same with values under hazardous levels, with the exception of a few outliers in two cities, Little Ferry and Secaucus.
+
 
 ![Fig](Images/all_mean_values_per_year.png)
 
