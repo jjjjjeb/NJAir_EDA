@@ -130,7 +130,7 @@ For the Cadmium data the average air quality is not steady and fluctuates, but t
 
 ### What were the mean values for the air quality in specific cities?
 
-![Fig](Images/Chromium_Sample_Final_Mean_by_City.png
+![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
 
 * Air quality with levels of health concern
 * Air Quality for Sensitive Groups
