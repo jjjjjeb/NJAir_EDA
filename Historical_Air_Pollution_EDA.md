@@ -1,4 +1,5 @@
-# Major Findings in the EDA for Historical Air Quality: Project 1, Group 6
+# Major Findings in the EDA for Historical Air Quality
+## Project 1, Group 6
 
 * We looked into Historical Air quality data in New Jersey over the last few decades.
 
@@ -7,32 +8,38 @@
 * @mariavpatino - Victoria Patiño 
 * @jjjjjeb - Jamie Bruno
 * @angievizca - Angelica Vizcaino
-* ----------
-
 
 ## Project Proposal:
 
-Our project is to compare air quality in New Jersey over the years. We will examine the relationships between Toxic Air Pollutants, where they have been found and trends in reported values ​​throughout the year and over the years that have been measured.
+We planned to analyse air quality in New Jersey over the past thirty years. We planned to examine the relationships between Toxic Air Pollutants in different locations throughout New Jersey, where these pollutants have been sampled, and to discover trends in reported values.
 
-## Finding Data:
-Process: Kaggle → Historical Air Quality → By US Environmental Protection Agency
-
-## Overall Questions: 
+## Guiding Questions: 
 
 1. What are some dangerous Toxic Air Pollutants to human's health? 
 2. Can they befound in New Jersey?
 3. Are the levels found in New Jersey dangerous?
 
-## Data Source
+## Finding the data:
+Process: 
+* Kaggle → 
+    * EPA Historical Air Quality → 
+        * US Environmental Protection Agency →
+            * Ambient Monitoring Archive of Hazardous Air Pollutants found at [EPA Toxics Data Archive](https://www3.epa.gov/ttn/amtic/toxdat.html#data)
 
-* We used the Ambient Monitoring Archive of Hazardous Air Pollutants found at [EPA Toxics Data Archive](https://www3.epa.gov/ttn/amtic/toxdat.html#data)
-* This had data on the following Hazardous Air Pollutants and  specific data on New Jersey
+## Final Data Source:
+
+We used the Ambient Monitoring Archive of Hazardous Air Pollutants because it had the best historical source of data, specifically relative to NJ. We then settled on the following Pollutants:
 1. Benzene
+    * Formed from both nature & human activity. Some industries use benzene in the process that makes paint, plastics, lubricants, rubbers, dyes, detergents, drugs, and pesticides. Natural sources include fires.
 2. Cadmium
+    * Occurs naturally and is released into the air in mining and smelting operatations. Also used in fertilizers, pigments, and batteries.
 3. Chromium
+    * Released into the air from fuel combustion and metal industries.
 4. Toluene
+    * Used to make benzene.  Used in industry to make chemicals, rubber and plastics, in solvents, and in paints and lacquers.
 
-### Risks of hazardous exposure to these pollutants results in the following effects as dependent on level of exposure:
+## Initial Exploration into the 'Harmful Effects' of our chosen substances:
+### Hazardous exposure to our chosen pollutants results in the following effects as dependent on level of exposure:
 1. Cancer, including lung, kidney, bone, stomach
 2. Harm to the nervous system and brain
 3. Birth defects
@@ -42,12 +49,10 @@ Process: Kaggle → Historical Air Quality → By US Environmental Protection Ag
 7. Harm to the cardiovascular system
 8. Reduced fertility
 
-# ANALYSIS OF ALL DATA SETS: BENZENE, TOLUENE, CHROMIUM, CADMIUM
 
-* The benzene and toluene data sample results show the most similarities with high values before 1995 and high averages across all the years in Harrison and North Plainfield.  Because Toluene is used to produce Benzene and because both are used in the production of paint, perhaps there were a higher number of paint-producing factories in these locations. 
-* 
-* 
-* 
+# Analysis of all Data Sets:  Benzene, Cadmium, Chromium, Toluene
+
+* The benzene and toluene data sample results show the most similarities with high values before 1995 and high averages across all the years in Harrison and North Plainfield.  Because Toluene is used to produce Benzene and because both are used in the production of paint, perhaps there were a higher number of paint-producing factories in these locations.  
 
 # Toxic Pollutant Highlights
 
@@ -56,7 +61,6 @@ Process: Kaggle → Historical Air Quality → By US Environmental Protection Ag
 ### How has the air quality changed overall over the course of the past 30 years?
 
 The air quality in terms of Benzene specifically, was on the decline over the last 30 years for the most part. However, in the years 2015 and 2016, the amount of Benzene appeared to be on the rise in the areas that were observed, with the addition of Bayonne and Newark being observed in those years and not the years prior.
-
 
 ### What were the mean values for the air quality in specific cities?
 
