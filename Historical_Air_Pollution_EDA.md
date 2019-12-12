@@ -128,15 +128,22 @@ According to the graph: “Chromium (microg/c3) by Year in NJ”, the air qualit
 
 #### PM2.5 AQI breakpoints
 
-![Fig](Images/Chromium_AQI_PM2.5.png)
+![Fig](Images/Chromium_AQI_PM25.PNG)
 
 To know if the values registered are dangerous or not, we need to compare them with an index and in this case with the Air Quality Index, the Fine Particulate Matter that measures the level of air pollutants in the air.
 
-After the registered levels of chromium were filtered, the results were:
+* After the registered levels of chromium were filtered, the results were:
 
 ![Fig](Images/Chromium_BreakPoint_Sensitive-VeryUnhealthy.png)
 
-People who were in those cities (Little Ferry and Secaucus) were exposed to the toxin and may have experienced serious health effects.
+People who were in those cities (Little Ferry and Secaucus) were exposed to the toxin and may have experienced serious health effects because the toxin levels found in the area were in the categories that could be: Unhealthy for sensitive groups, unhealthy and very unhealthy.
+
+![Fig](Images/Chromium_BreakPoint_Hazardous.png)
+
+The heat map shows exposure to dangerous levels in one place and is Secaucus (around wetlands). The value shown is high; that is, within the index we talk about levels of up to 500 and the value is shown reaches 800. This could be given for two reasons:
+
+1. The person who registered the data in the database made a human error and typed the wrong value.
+2. An important event occurred on the day of sampling.
 
 ### How do the cities compare over time?
 * Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being), this may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
