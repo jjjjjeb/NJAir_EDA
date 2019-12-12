@@ -119,17 +119,27 @@ According to the graph: “Chromium (microg/c3) by Year in NJ”, the air qualit
 
 ![Fig](Images/Chromium_sample_value_reported_year.png)
 
-
-
 ### What were the mean values for the air quality in specific cities?
 * In terms of specific cities, most were below 1 microgram per cubic meter, with the exception of Little Ferry and Secaucus. These cities showed the highest average values ​​reported, with levels above 35.5 during the years of 2007 and 2008, which according to the AQI - Particulate matter, are levels that would affect the population with serious health effects.
 
 ![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
 
+### Are the levels of Chromium in the air dangerous for the human's health?
+
+#### PM2.5 AQI breakpoints
+
+![Fig](Images/Chromium_AQI_PM2.5.png)
+
+To know if the values registered are dangerous or not, we need to compare them with an index and in this case with the Air Quality Index, the Fine Particulate Matter that measures the level of air pollutants in the air.
+
+After the registered levels of chromium were filtered, the results were:
+
+![Fig](Images/Chromium_BreakPoint_Sensitive-VeryUnhealthy.png)
+
+People who were in those cities (Little Ferry and Secaucus) were exposed to the toxin and may have experienced serious health effects.
 
 ### How do the cities compare over time?
-* Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being
-* This may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
+* Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being), this may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
 
 ![Fig](Images/Chromium_max_values_per_city.png)
 
