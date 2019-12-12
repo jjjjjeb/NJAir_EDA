@@ -97,8 +97,8 @@ EPA calculated an inhalation unit risk estimate of 1.8 × 10 -3 (µg/m 3 ) -1 . 
 
 ![Fig](Images/cadmium_yearly_city_mean.png)
 
-### How had the air quality changed in cities with more than 10 years of observational data?
-
+### How has the air quality improved in areas that have had observations of 10 years or more?
+For the Cadmium data the average air quality is not steady and fluctuates, but the last 3 years evaluated (204 to 2016) shows an increase of this toxins for the Cities of Camden, Highland Park, Elizabeth and Hopatcong, and and increase of last year evaluated (2016) for Newark and New Brunswick.
 
 ## Additional Observations for Cadmium
 ### What Years have more Risk of getting cancer?
@@ -111,16 +111,6 @@ Out of the 18 years studied in the data(from 2002 to 2016) by getting the mean v
 By grouping the data by year and city, we can calculate the mean values, and extract the years and cities with mean values in µg/m 3 higher than EPA at Risk estimate of 0.0018 µg/m 3 (per day). We can see that the year of 2016 has the highest risk with the cities of Newark, Hopatcong, and Highland Park. Been Highland Park the City with the highest mean value and at higher risk with a mean value of 0.004366 µg/m 3 for 24 hours. Which represents a higher probability for this population of getting cancer by inhaling Cadmium with this values over the lifetime. 
 
 ![Fig](Images/Cadmium_highest_at_risk_city.png)
-
-### How has the air quality improved in areas that have had observations of 10 years or more?
-For the Cadmium data the average air quality is not steady and fluctuates, but the last 3 years evaluated (204 to 2016) shows an increase of this toxins for the Cities of Camden, Highland Park, Elizabeth and Hopatcong, and and increase of last year evaluated (2016) for Newark and New Brunswick.
-
-* Air quality with levels of health concern
-* Air Quality for Sensitive Groups
-* Unhealthy Air Quality
-* Very unhealthy Air Quality
-* Hazardous Air Quality
-
 
 ## Chromium 
 
