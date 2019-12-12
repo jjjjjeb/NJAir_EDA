@@ -212,3 +212,9 @@ Figure 7: Toluene Max Values, City Highlights
 ![Fig](Images/Toluene_max_city_highlights.png)
 
 
+# Additional Data Sources
+There is an incredible wealth of data on current air quality from a variety of sources. See below.
+* A full list of the 187 designated hazardout air pollutants under the Clean Air Act: [HAPs](https://www.epa.gov/haps/initial-list-hazardous-air-pollutants-modifications)
+* Easy to understand comparisions on Air Quality throughout the USA: [AirCompare](https://www3.epa.gov/aircompare/)
+* Comprehensive Emission Data Inventories [AirEmissions](https://www.epa.gov/air-emissions-inventories)
+* Comprehensive Trend Data on HAPs: [AirTrends](https://www.epa.gov/air-trends)
