@@ -17,9 +17,9 @@ We planned to analyse air quality in New Jersey over the past thirty years. We p
 
 ## Guiding Questions: 
 
-1. What are some dangerous Toxic Air Pollutants to human's health? 
-2. Can they befound in New Jersey?
-3. Are the levels found in New Jersey dangerous?
+1. What are some Toxic Air Pollutants that are potentially dangerous to human health? 
+2. Can they be found in New Jersey?
+3. Are the levels found in New Jersey harmful to humans?
 
 ## Finding the data:
 Process: 
