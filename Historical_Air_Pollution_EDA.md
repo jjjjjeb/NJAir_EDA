@@ -97,7 +97,7 @@ EPA calculated an inhalation unit risk estimate of 1.8 × 10 -3 (µg/m 3 ) -1 . 
 
 According to the graph: “Chromium (microg/c3) by Year in NJ”, the air quality in terms of the presence of chromium toxin has been constant since 1991 mostly throughout the State of New Jersey (in cities where it has been measured). However, in 2007 and 2008, the levels of this toxin reached levels of concern for health in the cities of Little Ferry and especially Secaucus (based on the Air Quality Index (AQI) - Particulate matter).
 
-![Fig](Images/Cadmium_yearly_city_mean.png)
+![Fig](Images/cadmium_yearly_city_mean.png)
 
 ### How had the air quality changed in cities with more than 10 years of observational data?
 Over the years, all cities have shown a constant amount of chromium in the air (within healthy levels for the human being). This may be due to stricter government regulations to companies that have combustion and metal industry processes since these are the main sources that release this chemical element to the environment.
