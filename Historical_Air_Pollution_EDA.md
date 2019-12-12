@@ -13,6 +13,8 @@
 
 We planned to analyse air quality in New Jersey over the past thirty years. We planned to examine the relationships between Toxic Air Pollutants in different locations throughout New Jersey, where these pollutants have been sampled, and to discover trends in reported values.
 
+![Fig](https://whyy.org/wp-content/uploads/2019/10/smog-copy-768x512.jpg)
+
 ## Guiding Questions: 
 
 1. What are some dangerous Toxic Air Pollutants to human's health? 
