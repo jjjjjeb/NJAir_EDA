@@ -89,9 +89,7 @@ In conclusion, over time pretty much all the cities have made efforts to reduce 
 ## Cadmium:
 
 ### Risk Level
-EPA calculated an inhalation unit risk estimate of 1.8 × 10 -3 (µg/m 3 ) -1 . (0.0018 µg/m 3) (per day) 
-* [Ref](https://www.epa.gov/sites/production/files/2016-09/documents/cadmium-compounds.pdf)
-*[Ref 2](https://cfpub.epa.gov/ncea/iris/iris_documents/documents/subst/0141_summary.pdf#nameddest=cancerinhal)
+EPA calculated an inhalation unit risk estimate of 1.8 × 10 -3 (µg/m 3 ) -1 . (0.0018 µg/m 3) (per day) [Ref](https://www.epa.gov/sites/production/files/2016-09/documents/cadmium-compounds.pdf) / [Ref 2](https://cfpub.epa.gov/ncea/iris/iris_documents/documents/subst/0141_summary.pdf#nameddest=cancerinhal)
 
 ### How has the average air quality in terms of toxins changed in the last 20 to 30 years overall in New Jersey?
 
@@ -105,19 +103,19 @@ Over the years, all cities have shown a constant amount of chromium in the air (
 ### How do the cities compare over time?
 In terms of specific cities, most were below 1 microgram per cubic meter, with the exception of Little Ferry and Secaucus. These cities showed the highest average values ​​reported, with levels above 35.5 during the years of 2007 and 2008, which according to the AQI - Particulate matter, are levels that would affect the population with serious health effects.
 
-[Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
+![Fig](Images/Chromium_Sample_Final_Mean_by_City.png)
 
 ## Additional Observations for Cadmium
 ### What Years have more Risk of getting cancer?
 Out of the 18 years studied in the data(from 2002 to 2016) by getting the mean values of each year for the state of New Jersey, the only years that were not at risk of getting cancer by inhaling more than 0.0018 µg/m 3 for 24 hours were 2006 to 2008 and 2013 to 2014 . We can see that the mean values fluctuate over the 18 years, and are not consistent and not steady. Which may represent a risk or uncertainty in the upcoming years.
 
-[Fig](Images/cadmium_cities_years_at_risk.png)
+![Fig](Images/cadmium_cities_years_at_risk.png)
 
 ### What Cities in NJ have the highest risk of getting cancer? have higher concentration of Risk Estimate by EPA 0.0018 µg/m 3) (per day)
 
 By grouping the data by year and city, we can calculate the mean values, and extract the years and cities with mean values in µg/m 3 higher than EPA at Risk estimate of 0.0018 µg/m 3 (per day). We can see that the year of 2016 has the highest risk with the cities of Newark, Hopatcong, and Highland Park. Been Highland Park the City with the highest mean value and at higher risk with a mean value of 0.004366 µg/m 3 for 24 hours. Which represents a higher probability for this population of getting cancer by inhaling Cadmium with this values over the lifetime. 
 
-[Fig](Images/Cadmium_highest_at_risk_city.png)
+![Fig](Images/Cadmium_highest_at_risk_city.png)
 
 ### How has the air quality improved in areas that have had observations of 10 years or more?
 For the Cadmium data the average air quality is not steady and fluctuates, but the last 3 years evaluated (204 to 2016) shows an increase of this toxins for the Cities of Camden, Highland Park, Elizabeth and Hopatcong, and and increase of last year evaluated (2016) for Newark and New Brunswick.
